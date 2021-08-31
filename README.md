@@ -6,5 +6,7 @@ this app helps the people and makes sure that no one will ever sleep hungry. thi
 
 2 run locally 
 step 1: download zip and extract
+
 step 2: open powershell and type `npm install`
+
 step 3: type `npm start` and it should work
