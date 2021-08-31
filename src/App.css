@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+@font-face {
+    font-family: Platform;
+    src: url(./Media/Platform.ttf);
+}
+@media (min-width: 460px){
+    .App{
+        width: 460px;
+        /* height: 100vh; */
+        background: #030e4f;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+body{
+    background: #040c3c;
+    color: #f49f1c;
+}
+.title{
+    padding: 7px 16px;
+    font-family: Platform;
+}
+.map-container{
+    width: 92%;
+    height: 50vh;
+    border-radius: 8px;
+    border: 5px solid rgb(122, 218, 192);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.hot-bowl-icon{
+    width: 44px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 12px 0px;
+}
+.icon-holder{
+    background: linear-gradient( 
+        45deg
+         , #ddbdfc, #96c8fb);
+            width: 75px;
+            border-radius: 11px;
+            padding-left: 1px;
+}
+.container{
+    padding: 12px;
+    display: flex;
+    justify-content: space-between;
+}
+.board{
+    display: none;
+}
+.icon-holder:hover{
+    cursor: pointer;
+}

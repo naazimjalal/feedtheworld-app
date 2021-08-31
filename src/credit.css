@@ -1,0 +1,20 @@
+.credit-container{
+    display: flex;
+    justify-content: end;
+    border-radius: 8px;
+    border: 1px solid white;
+    width: 93%;
+    color: white;
+    margin-left: auto;
+    background: linear-gradient(45deg, #9795ef, #f9c5d1);
+    margin-right: auto;
+    font-family: 'Platform';
+}
+.credit-details{
+    padding: 21px 13px;
+}
+img{ 
+    width:50%;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
