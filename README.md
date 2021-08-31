@@ -4,7 +4,8 @@ this app helps the people and makes sure that no one will ever sleep hungry. thi
 # How to run on your device
 1 . run online - https://feedtheworld-app.web.app/
 
-2 run locally 
+2 . run locally 
+
 step 1: download zip and extract
 
 step 2: open powershell and type `npm install`
