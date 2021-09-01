@@ -1,5 +1,5 @@
 # feedtheworld-app (https://feedtheworld-app.web.app/)
-this app helps the people and makes sure that no one will ever sleep hungry. this app i useful for third world countries.
+this app helps the people and makes sure that no one will ever sleep hungry. this app is useful for third world countries.
 
 # Technical Specifications:
 1. Firebase: this web app is connected to firebase database and fetches data from there
